@@ -15,8 +15,16 @@
 ### Analysis of Outcomes Based on Launch Date
     It's very clear based on multiples years of data that the Spring to Summer months are the most successful times of years to launch a successful campaign. Particularly, May and June have produced the best months. I reviewed previous months by year and this is a consistent trend with no outliers.
 
+Please see attched image in link below:
+https://github.com/jackotaj/repo-kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true
+
 ### Analysis of Outcomes Based on Goals
     Campaigns with goals of $5k and under tend to perform at the higest rate. They then begin to dip down in their success rate below 60% once above $5k. This trend continues steadliy until the $25k+ mark when the success rate drops significantly down to a 20% success rate. There does seem to be a sweet spot, however, once the goal comes back up to the $35-45k range where there's a high of 67% success. Further analysis would be needed of this. 
+
+Please see attched image in link below:
+https://github.com/jackotaj/repo-kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true
+
+
 
 ### Challenges and Difficulties Encountered
     As previously stated, our biggest chalenge comes from our limited data that we have to work from. We can provide a limited analysis based on limited data but it is insufficient to base budgeting goals on or to truly determeine what was the cause of the success or failure amongst the different campaigns. 
