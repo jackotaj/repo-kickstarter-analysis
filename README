@@ -5,12 +5,11 @@
 
 ### Purpose
     Louise, a playwright, has estimated that her new play will need a budget of $10,000 and is setting out to raise this amount from a kickstarter campaign. Her ask of this analysis, is to identify trends or patterns from other crowdfunding campaigns to help her be more successful with her own. 
+
 ## Analysis and Challenges
     My initial obersavtions are that out of the group of crowdfunding campaigns in our data set, the parent category for Theater has the highest volume of campaigns ran out of all of the categories and also the most successful campaigns. It does, however, share the highest count of failed campaigns. This appears to be a popular but saturated category on kickstarter. Louise will inevitably face heavy competition from other Theater campaigns. Plays, as a Subcategory, also make up for 73% of the total Theater campaigns. 
 
     Our biggest challenge, I believe, has to do with having limited data to support our analysis. We will be able to arrive at some consclusions but this will not be a comprehensive analysis. 
-
-
 
 ### Analysis of Outcomes Based on Launch Date
     It's very clear based on multiples years of data that the Spring to Summer months are the most successful times of years to launch a successful campaign. Particularly, May and June have produced the best months. I reviewed previous months by year and this is a consistent trend with no outliers.
@@ -23,7 +22,6 @@ https://github.com/jackotaj/repo-kickstarter-analysis/blob/main/Theater_Outcomes
 
 Please see attached image in link below:
 https://github.com/jackotaj/repo-kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true
-
 
 
 ### Challenges and Difficulties Encountered
